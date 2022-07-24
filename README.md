@@ -1,10 +1,10 @@
 ## Cronge's First Ever Mod!
 
-In [Fabric](https://fabricmc.net).
+In ![Fabric](https://fabricmc.net).
 
 #### Items:
 
-`The 'Eight Ball'`
+The 'Eight Ball'
 > Gives a random number everytime you right-click with it.
 
 #### Gemstones
