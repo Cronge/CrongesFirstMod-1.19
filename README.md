@@ -2,12 +2,12 @@
 
 #### My first ever mod. In [Fabric](https://fabricmc.net).
 
-## Items:
+##### Items:
 
 The 'Eight Ball'
 > Gives a random number everytime you right-click with it.
 
-## Gemstones
+##### Gemstones
 
 Ruby
 > Has *2* variants, *raw*, and *cut* (normal form).
