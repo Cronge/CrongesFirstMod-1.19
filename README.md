@@ -8,7 +8,7 @@ My first ever mod.
 The 'Eight Ball'
 > Gives a random number everytime you right-click with it
 
-## Gemstone~~s~~
+## Gemstones
 
 Ruby
 > With *2* variants, *raw*, and *cut* (normal form).
