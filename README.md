@@ -1,4 +1,4 @@
-# Cronges First Mod 1.19
+# Cronges First Mod 
 
 My first ever mod.
 > in [Fabric](https://fabricmc.net) BTW.
