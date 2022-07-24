@@ -7,7 +7,7 @@ My first ever mod.
 
 [Fabric Modding Tutorials I'm following](https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_)
 
-# Items:
+## Items:
 
 The 'Eight Ball'
 > gives a random number everytime you right-click with it
@@ -17,7 +17,7 @@ The 'Eight Ball'
 Ruby
 > with *2* variants, *raw*, and *cut* (normal form).
 
-You can get Raw Ruby from mining *Ruby Ore*.
-  *Raw Ruby*  can then be turned into it's  *cut*  form by using the [stonecutter](https://minecraft.fandom.com/wiki/Stonecutter?so=search)
+> You can get Raw Ruby from mining *Ruby Ore*.
+>  *Raw Ruby*  can then be turned into it's  *cut*  form by using the [stonecutter](https://minecraft.fandom.com/wiki/Stonecutter?so=search)
 
 
