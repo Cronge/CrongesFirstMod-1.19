@@ -20,6 +20,6 @@ Ruby
 
 <br/> > [Java Tutorials I'm following](https://www.youtube.com/watch?v=oBwPZRk6-SE&list=PLKGarocXCE1FeXvEogpjz4SvHxF_FJRO6)
 
-<br/> > [Fabric Modding Tutorials I'm following](https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_)
+> [Fabric Modding Tutorials I'm following](https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_)
 
 
