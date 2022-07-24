@@ -7,7 +7,7 @@ My first ever mod.
 
 [Fabric Modding Tutorials I'm following](https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_)
 
-## Items:
+# Items:
 
 The 'Eight Ball'
 > gives a random number everytime you right-click with it
