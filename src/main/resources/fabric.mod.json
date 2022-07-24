@@ -4,9 +4,9 @@
   "version": "${version}",
 
   "name": "Cronge's First Mod!",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "My First Mod!",
   "authors": [
-    "ImCronge"
+    "ImCronge and Astrp"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,12 +14,15 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/crongesfirstmod/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
       "net.imcronge.crongesfirstmod.CrongesFirstMod"
+    ],
+    "client": [
+      "net.imcronge.crongesfirstmod.CrongesFirstModClient"
     ]
   },
   "mixins": [
