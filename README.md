@@ -1,6 +1,8 @@
 ## Cronge's First Ever Mod!
 
-In ![Fabric](https://fabricmc.net).
+in [Fabric](https://fabricmc.net).
+
+I just started out making mods because I find it interesting and because it's cool.
 
 #### Items:
 
