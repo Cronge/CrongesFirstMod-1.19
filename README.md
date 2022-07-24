@@ -1,6 +1,7 @@
 ## CrongesFirstMod-1.19
 
-My first ever mod(in [Fabric](https://fabricmc.net) BTW).
+My first ever mod.
+> in [Fabric](https://fabricmc.net) BTW
 
 Learning Java along the way!
 
