@@ -2,7 +2,7 @@
 
 in [Fabric](https://fabricmc.net).
 
-I just started out making mods because I find it interesting and because it's cool.
+I just started out making mods because I find it interesting, and I'm learning Java to effectively make better mods.
 
 #### Items:
 
