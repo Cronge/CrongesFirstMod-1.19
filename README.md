@@ -1,6 +1,6 @@
 ## Cronge's First Ever Mod!
 
-#### My first ever mod. In [Fabric](https://fabricmc.net).
+In [Fabric](https://fabricmc.net).
 
 #### Items:
 
