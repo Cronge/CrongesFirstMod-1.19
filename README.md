@@ -1,4 +1,4 @@
-#                        Cronges First Mod 
+          # Cronges First Mod 
 
 My first ever mod. In [Fabric](https://fabricmc.net).
 
