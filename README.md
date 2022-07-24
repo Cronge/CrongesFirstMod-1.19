@@ -6,7 +6,7 @@ My first ever mod.
 ## Items:
 
 The 'Eight Ball'
-> Gives a random number everytime you right-click with it
+> Gives a random number everytime you right-click with it.
 
 ## Gemstones
 
