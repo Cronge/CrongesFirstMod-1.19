@@ -2,8 +2,22 @@
 
 My first ever mod.
 ##### in [Fabric](https://fabricmc.net) BTW.
+
 ## [Java Tutorials I'm following](https://www.youtube.com/watch?v=oBwPZRk6-SE&list=PLKGarocXCE1FeXvEogpjz4SvHxF_FJRO6)
 
 ## [Fabric Modding Tutorials I'm following](https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_)
+
+## Current Items:
+
+The 'Eight Ball'
+> gives a random number everytime you right-click with it
+
+###### Gemstone~~s~~
+
+Ruby:
+with *2* variants, *Raw*, and *Cut*(normal form).
+
+You can get Raw Ruby from mining *Ruby Ore*.
+Raw Ruby can then be turned it's *cut* form by using the [stonecutter](https://minecraft.fandom.com/wiki/Stonecutter?so=search)(yes I know, but in the meantime..)
 
 
