@@ -1,7 +1,7 @@
 # Cronges First Mod 
 
 My first ever mod.
-> in [Fabric](https://fabricmc.net) BTW.
+ in [Fabric](https://fabricmc.net) BTW.
 
 ## Items:
 
