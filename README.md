@@ -15,7 +15,7 @@ The 'Eight Ball'
 ## Gemstone~~s~~
 
 Ruby:
-with *2* variants, *raw*, and *cut* (normal form). <br />
+<br /> with *2* variants, *raw*, and *cut* (normal form).
 
 You can get Raw Ruby from mining *Ruby Ore*.
 *Raw Ruby* can then be turned it's *cut* form by using the [stonecutter](https://minecraft.fandom.com/wiki/Stonecutter?so=search)<br />
