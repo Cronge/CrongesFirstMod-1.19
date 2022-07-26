@@ -11,6 +11,7 @@ I've just started out making mods because I've always been fascinated by mods li
 > I'm learning Java too because it's *essential* to making mods.
 
 <br/>
+
 #### Items:
 
 Eight Ball ![Eight Ball](https://github.com/Cronge/CrongesFirstMod-1.19/blob/main/src/main/resources/assets/crongesfirstmod/textures/item/eight_ball.png)
