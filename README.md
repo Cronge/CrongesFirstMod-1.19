@@ -1,4 +1,4 @@
-## Cronge's First Ever Mod!
+## Cronge's First Mod!
 
 in [Fabric](https://fabricmc.net).
 
