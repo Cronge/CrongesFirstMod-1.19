@@ -8,7 +8,8 @@ I've just started out making mods because I've always been fascinated by mods li
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create), etc
 <br>
 I've always wanted to create mods like those, so I decided to learn how!
-<br> I'm learning Java too
+<br>
+<br> I'm learning Java too.
 
 #### Items:
 
