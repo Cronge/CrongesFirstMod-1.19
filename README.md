@@ -7,7 +7,7 @@ I've just started out making mods because I've always been fascinated by mods li
 
 #### Items:
 
-The 'Eight Ball'
+Eight Ball
 - Gives a random number everytime you right-click with it.
 
 #### Gemstones
