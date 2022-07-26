@@ -7,7 +7,7 @@ I've just started out making mods because I've always been fascinated by mods li
 - [RLCraft](https://www.curseforge.com/minecraft/modpacks/rlcraft)
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create), etc
 <br/>
-<br/> I've always wanted to create mods like those, so I decided to learn how!
+I've always wanted to create mods like those, so I decided to learn how!
 > I'm learning Java too because it's *essential* to making mods.
 
 <br/>
