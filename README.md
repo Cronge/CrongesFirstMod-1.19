@@ -8,7 +8,8 @@ I have just started out making mods because I've always been fascinated by mods 
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) and etc.
 <br>
 I've always wanted to create mods like those, so I decided to learn how!
-I'm learning [Java](https://www.java.com/en/) too.
+<br>
+I'm learning [java](https://www.java.com/en/) too.
 
 ### Current State of the Mod
 This mod is currently in ***deveplopment*** and cannnot be released yet due to the *extremely limited knowledge* of modding I have.
