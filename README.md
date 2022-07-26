@@ -15,7 +15,6 @@ I'm learning [Java](https://www.java.com/en/) too.
 This mod is currently in ***deveplopment*** and cannnot be released yet due to the *extremely limited knowledge* of modding I have.
 <br>
 <br> I have added only Items so far and plan to add more stuff later on.
-<br>
 #### Items:
 
 'Eight Ball'
