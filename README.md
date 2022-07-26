@@ -12,7 +12,7 @@ I've always wanted to create mods like those, so I decided to learn how!
 
 #### Items:
 
-Eight Ball ![Eight Ball](https://github.com/Cronge/CrongesFirstMod-1.19/blob/main/src/main/resources/assets/crongesfirstmod/textures/item/eight_ball.png)
+'Eight Ball'
 - Gives a random number everytime you right-click with it.
 
 #### Gemstones
