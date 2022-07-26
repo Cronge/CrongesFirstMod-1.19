@@ -2,13 +2,18 @@
 
 in [Fabric](https://fabricmc.net).
 
-I've just started out making mods because I've always been fascinated by mods like [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) , [RLCraft](https://www.curseforge.com/minecraft/modpacks/rlcraft) and [Create](https://www.curseforge.com/minecraft/mc-mods/create). 
+I've just started out making mods because I've always been fascinated by mods like:
+- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) 
+- [RLCraft](https://www.curseforge.com/minecraft/modpacks/rlcraft)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create), etc
+<br/>
 <br/> I've always wanted to create mods like those, so I decided to learn how!
-<br/> I'm learning Java too because it's *essential* to making mods.
+> I'm learning Java too because it's *essential* to making mods.
 
+<br/>
 #### Items:
 
-![Eight Ball](https://github.com/Cronge/CrongesFirstMod-1.19/blob/main/src/main/resources/assets/crongesfirstmod/textures/item/eight_ball.png)
+Eight Ball ![Eight Ball](https://github.com/Cronge/CrongesFirstMod-1.19/blob/main/src/main/resources/assets/crongesfirstmod/textures/item/eight_ball.png)
 - Gives a random number everytime you right-click with it.
 
 #### Gemstones
