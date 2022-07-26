@@ -2,7 +2,7 @@
 
 in [Fabric](https://fabricmc.net).
 
-I've just started out making mods because I've always been fascinated by mods like [JEI](https://www.curseforge.com/minecraft/mc-mods/jei), [CREATE](https://www.curseforge.com/minecraft/mc-mods/create) .
+I've just started out making mods because I've always been fascinated by mods like [JEI](https://www.curseforge.com/minecraft/mc-mods/jei), [RLCRAFT](https://www.curseforge.com/minecraft/modpacks/rlcraft), [CREATE](https://www.curseforge.com/minecraft/mc-mods/create)
 <br/> Learning Java because it's *essential* to making mods.
 
 #### Items:
