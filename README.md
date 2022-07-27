@@ -30,11 +30,7 @@ Ruby
 - *Raw Ruby*  can then be turned into it's  *cut*  form by using the [stonecutter](https://minecraft.fandom.com/wiki/Stonecutter?so=search).
 
 
-<br> [Java Introduction for Minecraft](https://www.youtube.com/watch?v=oBwPZRk6-SE&list=PLKGarocXCE1FeXvEogpjz4SvHxF_FJRO6)
+<br> [Java Introduction for Minecraft Modding](https://www.youtube.com/watch?v=oBwPZRk6-SE&list=PLKGarocXCE1FeXvEogpjz4SvHxF_FJRO6)
 
 [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_)
-
-**BIG THANKS TO KAUPENJOE FOR MAKING THESE HIGH-QUALITY TUTORIALS❤️**
-> subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe) 🚀
-
 
