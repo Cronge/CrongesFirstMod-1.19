@@ -13,7 +13,7 @@ I have just started out making mods because I've always been fascinated by mods 
 ### Current State of the Mod
 This mod is currently in ***deveplopment*** and cannnot be released yet due to the *extremely limited knowledge* of modding I have.
 
-<p> I have added only Items so far and plan to add more stuff later on.
+<p> I have added only Items(a few) so far and plan to add more stuff(like entities, etc.) later on.
  
 #### Items:
 
